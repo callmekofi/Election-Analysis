@@ -1,5 +1,5 @@
-# Election-Analysis
-In this Data Project looks at data from the 2012 election. The data for the polls will be obtained from HuffPost Pollster.
+# 2012 US Election-Analysis
+This Data Analysis Project looks at data from the 2012 election in the USA. The data for the polls will be obtained from HuffPost Pollster.
 
 In this project we will analyze two datasets. The first data set will be the results of political polls. We will analyze this aggregated poll data and answer some questions:
 
